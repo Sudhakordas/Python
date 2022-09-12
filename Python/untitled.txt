@@ -1,0 +1,19 @@
+username = spc
+M!cro20$yrup21
+
+
+https://leetcode.com/problems/happy-number/
+https://leetcode.com/problems/move-zeroes/
+https://leetcode.com/problems/remove-element/
+
+https://leetcode.com/problems/fibonacci-number/
+https://leetcode.com/problems/single-number/
+https://leetcode.com/problems/ugly-number/
+https://leetcode.com/problems/happy-number/
+https://leetcode.com/problems/missing-number/
+https://leetcode.com/problems/missing-number/solution/
+https://leetcode.com/problems/palindrome-number/
+https://leetcode.com/problems/move-zeroes/
+https://leetcode.com/problems/majority-element/
+https://leetcode.com/problems/remove-element/
+https://leetcode.com/problems/find-the-difference/
